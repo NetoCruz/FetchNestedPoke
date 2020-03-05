@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FetchNestedPoke/static/css/main.d8fb7a3e.chunk.css",
+    "main.js": "/FetchNestedPoke/static/js/main.84bfb8ce.chunk.js",
+    "main.js.map": "/FetchNestedPoke/static/js/main.84bfb8ce.chunk.js.map",
+    "runtime-main.js": "/FetchNestedPoke/static/js/runtime-main.4b077c32.js",
+    "runtime-main.js.map": "/FetchNestedPoke/static/js/runtime-main.4b077c32.js.map",
+    "static/js/2.70789099.chunk.js": "/FetchNestedPoke/static/js/2.70789099.chunk.js",
+    "static/js/2.70789099.chunk.js.map": "/FetchNestedPoke/static/js/2.70789099.chunk.js.map",
+    "index.html": "/FetchNestedPoke/index.html",
+    "precache-manifest.91b26144ad3127b0274b9848e2c48466.js": "/FetchNestedPoke/precache-manifest.91b26144ad3127b0274b9848e2c48466.js",
+    "service-worker.js": "/FetchNestedPoke/service-worker.js",
+    "static/css/main.d8fb7a3e.chunk.css.map": "/FetchNestedPoke/static/css/main.d8fb7a3e.chunk.css.map",
+    "static/js/2.70789099.chunk.js.LICENSE.txt": "/FetchNestedPoke/static/js/2.70789099.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b077c32.js",
+    "static/js/2.70789099.chunk.js",
+    "static/css/main.d8fb7a3e.chunk.css",
+    "static/js/main.84bfb8ce.chunk.js"
+  ]
+}
